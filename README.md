@@ -1,0 +1,2 @@
+# premium-surface-grind-001-surface-grinding-flat-finish
+Tired of inconsistent flat finishes and scattered grinding specs? Your process deserves a system that tracks every pass, tolerance, and spark-out — without the spreadsheet chaos.  The Surface Grinding &amp; Flat Finish Craft Hub is the first Notion template built specifically for surface grinding professionals. It replaces messy notebooks and fragmente
